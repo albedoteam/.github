@@ -1,6 +1,6 @@
 name: Albedo Team CI SDK
 
-on
+on:
   push: 
     [rc, main]
   pull_request:
