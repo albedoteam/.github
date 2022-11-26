@@ -2,7 +2,7 @@ name: Albedo Team CI SDK
 
 on:
   push: 
-    [rc, main]
+    branches: [rc, main]
   pull_request:
     types: [opened, reopened]
 
